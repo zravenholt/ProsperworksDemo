@@ -1,0 +1,12 @@
+{
+  "key-0" : "",
+  "key-1-number" : "10",
+  "key-1" : "La volpe  marrone [[quick]] saltò sul cane pigro.",
+  "key-2" : "Non sembri un \n caval donato in bocca",
+  "key-3" : "E 'anatre fino in fondo.",
+  "day_of_week_array" : [ {
+    "Monday" : "Lunedi è il primo giorno",
+    "Tuesday" : "Non è Lunedi."
+  } ],
+  "key-00" : null
+}
